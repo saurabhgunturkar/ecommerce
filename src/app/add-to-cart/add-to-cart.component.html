@@ -1,0 +1,62 @@
+<div class="backbutton">
+    <h2><a [routerLink]="'/category'" style="text-decoration: none;">{{ backbutton }}</a></h2>
+</div>
+<h1 style="text-align: center; background-color: rgb(0, 77, 103); color: white; height: 40px; padding-top: 12px;margin: 0px">$
+    Billing Portal $</h1>
+
+<div class="container">
+    <div class="cardlist">
+        <div class="card" *ngFor="let carditem of carditems; let i = index">
+            <img src="{{ carditem.productimage }}" alt="{{ carditem.productimage }}">
+            <div class="item-details">
+                <div class="icon" style="text-align: right;" (click)="delete(i)"><mat-icon>delete</mat-icon></div>
+                <h4 style="margin: 0;">Product Name: {{ carditem.productname }}</h4>
+                <h4 style="margin: 0;">Price: <span style="text-decoration: line-through;">{{ carditem.price }}</span>/-
+                </h4>
+                <p>Discount: {{ carditem.discounts }}%off</p>
+                <h1 style="font-weight: 600;">RS.{{ (carditem.price) - ((carditem.price) * (carditem.discounts) / 100)
+                    }}/-</h1>
+                <div class="quantity">
+                    <mat-icon (click)="increment(i)">add</mat-icon>
+                    <h3>{{ carditems[i]?.count || 1 }}</h3>
+                    <mat-icon (click)="decrement(i)">remove</mat-icon>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="billing">
+        <h2>Receipt ID: {{billingID}}</h2><br>
+        <h1 style="font-size: 50px;font-weight: 600;font-family: Arial, Helvetica, sans-serif;">RS. {{total()}}</h1><br>
+        <!-- <h1>Place your order Here!!!</h1> -->
+    
+        <!-- <form [formGroup]="placeOrderForm" (ngSubmit)="placeOrder()" >
+            <h2>Order Id: {{orderID}}</h2>
+            <mat-form-field>
+                <input matInput name="customerName" type="text" placeholder="Enter your name" formControlName="customerName" required >
+            </mat-form-field>
+            <mat-form-field>
+                <input matInput name="contactNumber" type="text" placeholder="Enter your contact number" formControlName="contactNumber" required >
+            </mat-form-field>
+            <mat-form-field>
+                <textarea matInput name="deliveryAddress" placeholder="Enter your address" formControlName="deliveryAddress" required ></textarea>
+            </mat-form-field>
+            <mat-form-field>
+                <input matInput name="city" type="text" placeholder="Enter city" formControlName="city" required>
+            </mat-form-field>
+            <mat-form-field>
+                <input matInput name="state" type="text" placeholder="Enter State" formControlName="state"required >
+            </mat-form-field>
+            <mat-form-field>
+                <input matInput name="country" type="text" placeholder="Enter country" formControlName="country" required>
+            </mat-form-field>
+          this is payment section
+            <div #paymentRef style="width: 60%; position: relative;left: 50;"></div>
+           
+            <br><br>
+            <button mat-raised-button color="primary" type="submit">Place Order</button>
+            <br><br><br>
+        </form> -->
+        <div #paymentRef class="paymentRef"></div>
+    </div>
+    
+</div>

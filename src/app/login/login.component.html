@@ -1,0 +1,19 @@
+<div class="container">
+    <div class="loginform" *ngIf="!isLoggedIn">
+        <div class="leftimg"></div>
+
+        <div class="loginform1">
+            <h1 style="color: #003f32;font-size: 28px;font-family:Arial, Helvetica, sans-serif;">Login</h1>
+            <input type="email" placeholder="email" [(ngModel)]="email" />
+            <input type="password" placeholder="password" [(ngModel)]="password" />
+            <a [routerLink]="['/forgotPassword']">
+                <p>forgot password?</p>
+            </a>
+            <button (click)="login1()" type="submit">Login</button>
+            <button routerLink="/signup" type="submit">SignUp</button>
+            <div>{{ errormsg }}</div>
+
+            <button routerLink="/addProduct">add product</button>
+        </div>
+    </div>
+</div>

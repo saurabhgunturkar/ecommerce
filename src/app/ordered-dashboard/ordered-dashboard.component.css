@@ -1,0 +1,46 @@
+mat-expansion-panel-header{
+    background-color: antiquewhite;
+}
+mat-panel-title{
+    /* text-align: center; */
+    justify-content: center;
+}
+
+.details{
+    display:flex;
+    flex-direction: column;
+    /* gap:80px; */
+    font-weight: 500;
+    
+}
+
+
+.shipping-details-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.shipping-details-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+.shipping-details-table td:first-child {
+    font-weight: bold;
+    background-color: #f2f2f2;
+}
+
+.payment-details-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.payment-details-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+.payment-details-table td:first-child {
+    font-weight: bold;
+    background-color: #f2f2f2;
+}

@@ -1,0 +1,1933 @@
+{
+  "loginCredientials": [
+    {
+      "email": "saurabh@gmail.com",
+      "password": "123456",
+      "id": "0"
+    },
+    {
+      "email": "shruti@gmail.com",
+      "password": "Shruti@0786",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "email": "sau@gmail.com",
+      "password": "07102001"
+    },
+    {
+      "id": "3",
+      "email": "demo@gmail.com",
+      "password": "demo@123"
+    },
+    {
+      "id": "4",
+      "email": "john@yahoo.com",
+      "password": "john0220"
+    },
+    {
+      "id": "5",
+      "email": "dany@yahoo.com",
+      "password": "dany5123"
+    },
+    {
+      "id": "6",
+      "email": "milli@gmail.com",
+      "password": "milli98745**"
+    },
+    {
+      "id": "7",
+      "email": "jam@gmail.com",
+      "password": "jam2345"
+    },
+    {
+      "email": "alok@gmail.com",
+      "password": "",
+      "id": "8"
+    }
+  ],
+  "sunglasses": [
+    {
+      "proudctID": 97218921562215,
+      "productimage": "https://m.media-amazon.com/images/I/51OQ3sPBAsL._AC_UY1100_.jpg",
+      "productname": "Ray-Ban",
+      "price": 1200,
+      "ratings": 4.5,
+      "discounts": 10,
+      "features": "Black, Medium, Polarized",
+      "id": "cf5f"
+    },
+    {
+      "proudctID": 97218921562212,
+      "productimage": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-brown-gradient-full-rim-aviator-vincent-chase-polarized-vintage-vc-s11075-c11-sunglasses_g_3378_6_02_22.jpg",
+      "productname": "Oakley",
+      "price": 1350,
+      "ratings": 4.2,
+      "discounts": 15,
+      "features": "Brown, Large, UV Protection",
+      "id": "5e44"
+    },
+    {
+      "productimage": "https://beardo.in/cdn/shop/products/1_938b20a4-734b-4d1e-b138-6dbd7f4425ef.jpg?v=1681993775&width=1946",
+      "productname": "Persol",
+      "price": 1400,
+      "ratings": 4.8,
+      "discounts": 20,
+      "features": "Havana, Small, Scratch Resistant",
+      "id": "1c79"
+    },
+    {
+      "productimage": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-brown-gradient-full-rim-aviator-vincent-chase-polarized-vintage-vc-s11075-c11-sunglasses_g_3378_6_02_22.jpg",
+      "productname": "Prada",
+      "price": 1300,
+      "ratings": 4.6,
+      "discounts": 12,
+      "features": "Blue, Medium, Mirrored",
+      "id": "e9d1"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20230807/4U98/64d10d0beebac147fcaefe44/-473Wx593H-469159210-green-MODEL.jpg",
+      "productname": "Tom Ford",
+      "price": 1250,
+      "ratings": 4.4,
+      "discounts": 18,
+      "features": "Green, Large, Gradient",
+      "id": "54ba"
+    },
+    {
+      "productimage": "https://iryz.in/cdn/shop/products/IMG_1196-copy_1024x1024.jpg?v=1662638384",
+      "productname": "Gucci",
+      "price": 1280,
+      "ratings": 4.7,
+      "discounts": 14,
+      "features": "Red, Medium, Anti-reflective",
+      "id": "27b7"
+    },
+    {
+      "productimage": "https://india.ray-ban.com/media/catalog/product/cache/31cc5ad256d13496e740487cbcf523ed/0/r/0rb3025i_w3276_000a_new.png",
+      "productname": "Cartier",
+      "price": 1450,
+      "ratings": 4.9,
+      "discounts": 25,
+      "features": "Gold, Small, Prescription",
+      "id": "c534"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/UT/BK/JI/SELLER-72799444/full-silver-colour-sunglass-500x500.jpg",
+      "productname": "Chanel",
+      "price": 1375,
+      "ratings": 4.3,
+      "discounts": 17,
+      "features": "Silver, Large, Water Repellent",
+      "id": "c0c2"
+    },
+    {
+      "productimage": "https://woggles.gumlet.io/api/catalog/products/woggles_new_image_9_12_2022/freddy_beige_square_sunglasses_side_view_02_11_23.jpg?format=webp&w=480&dpr=2.6",
+      "productname": "Burberry",
+      "price": 1230,
+      "ratings": 4.1,
+      "discounts": 16,
+      "features": "Beige, Medium, Dust Proof",
+      "id": "100f"
+    },
+    {
+      "productimage": "https://m.media-amazon.com/images/I/51U6HBFr6IL._AC_UY1100_.jpg",
+      "productname": "Dolce & Gabbana",
+      "price": 1299,
+      "ratings": 4.7,
+      "discounts": 22,
+      "features": "White, Large, Impact Resistant",
+      "id": "1f52"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/EP/WH/MJ/SELLER-86296932/purple-wayfarer-sunglasses.jpg",
+      "productname": "Oliver Peoples",
+      "price": 1399,
+      "ratings": 4.5,
+      "discounts": 19,
+      "features": "Purple, Small, Scratch Proof",
+      "id": "7b2f"
+    },
+    {
+      "productimage": "https://cdn.shopify.com/s/files/1/2794/1798/files/BON_CHARGE_Blog_16_1024x1024.png?v=1661310039",
+      "productname": "Maui Jim",
+      "price": 1450,
+      "ratings": 4.8,
+      "discounts": 21,
+      "features": "Yellow, Medium, UV Blocking",
+      "id": "a349"
+    },
+    {
+      "productimage": "https://iryz.in/cdn/shop/products/LTS-c54_grande.jpg?v=1662638904",
+      "productname": "Ray-Ban",
+      "price": 1225,
+      "ratings": 4.4,
+      "discounts": 13,
+      "features": "Black, Large, Polarized",
+      "id": "0603"
+    },
+    {
+      "productimage": "https://images.jdmagicbox.com/quickquotes/images_main/rayban_men_round_sunglasses_brown_gradient_polarized_rb3447_196_m2__26667692_0.jpg",
+      "productname": "Oakley",
+      "price": 1325,
+      "ratings": 4.6,
+      "discounts": 18,
+      "features": "Brown, Small, UV Protection",
+      "id": "6df1"
+    },
+    {
+      "productimage": "https://india.ray-ban.com/media/catalog/product/cache/31cc5ad256d13496e740487cbcf523ed/p/r/prod_2fproduct-image_2frayban_20monobrand_2frayban_2f8056597860734_2f8056597860734_1.jpg",
+      "productname": "Persol",
+      "price": 1390,
+      "ratings": 4.7,
+      "discounts": 20,
+      "features": "Havana, Medium, Scratch Resistant",
+      "id": "b5d2"
+    },
+    {
+      "productimage": "https://www.edgability.com/cdn/shop/products/image_1fd958bc-0f01-4f5c-b56d-3a92516ba106_800x.jpg?v=1571611636",
+      "productname": "Prada",
+      "price": 1310,
+      "ratings": 4.3,
+      "discounts": 15,
+      "features": "Blue, Large, Mirrored",
+      "id": "795b"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20230807/4U98/64d10d0beebac147fcaefe44/-473Wx593H-469159210-green-MODEL.jpg",
+      "productname": "Tom Ford",
+      "price": 1265,
+      "ratings": 4.5,
+      "discounts": 19,
+      "features": "Green, Medium, Gradient",
+      "id": "00d5"
+    },
+    {
+      "productimage": "https://cdn.eyemyeye.com/shared/images/products/S21B2316/S21B2316-3.jpg",
+      "productname": "Gucci",
+      "price": 1275,
+      "ratings": 4.2,
+      "discounts": 16,
+      "features": "Red, Large, Anti-reflective",
+      "id": "6847"
+    },
+    {
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6SjhuhKkbrNUH2qs-t9Q5fhvCeT3DR5wdCA&usqp=CAU",
+      "productname": "Cartier",
+      "price": 1430,
+      "ratings": 4.9,
+      "discounts": 23,
+      "features": "Gold, Small, Prescription",
+      "id": "e255"
+    },
+    {
+      "productimage": "https://www.dimeoptics.com/cdn/shop/files/diff-eyewear-tarzana-gold-gold-mirror-sunglasses-alt-1_600x.jpg?v=1706556507",
+      "productname": "Chanel",
+      "price": 1380,
+      "ratings": 4.4,
+      "discounts": 17,
+      "features": "Silver, Large, Water Repellent",
+      "id": "3f1d"
+    },
+    {
+      "productimage": "data:image/jpeg;base64,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",
+      "productname": "Burberry",
+      "price": 1240,
+      "ratings": 4.1,
+      "discounts": 15,
+      "features": "Beige, Medium, Dust Proof",
+      "id": "c63b"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20230629/1oiu/649cd8d9a9b42d15c91d0725/-473Wx593H-466029971-white-MODEL.jpg",
+      "productname": "Dolce & Gabbana",
+      "price": 1305,
+      "ratings": 4.8,
+      "discounts": 20,
+      "features": "White, Large, Impact Resistant",
+      "id": "1d37"
+    },
+    {
+      "productimage": "https://res.ygstatic.com/frame/1260/12604/407/2.1800.1658605657-de8.jpg",
+      "productname": "Oliver Peoples",
+      "price": 1405,
+      "ratings": 4.5,
+      "discounts": 21,
+      "features": "Purple, Small, Scratch Proof",
+      "id": "ed4b"
+    },
+    {
+      "productimage": "https://cdn.shopify.com/s/files/1/0023/9845/3859/products/1_2018-Pilot-Glasses-Men-s-Sunglasses-Car-Drivers-Night-Vision-Goggles-Anti-Glare-Sun-glasses-Women.jpg?v=1571723004",
+      "productname": "Maui Jim",
+      "price": 1440,
+      "ratings": 4.7,
+      "discounts": 23,
+      "features": "Yellow, Medium, UV Blocking",
+      "id": "4212"
+    },
+    {
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZH7Fkpy07_Aps7D3hdbxYYqhc-0e-5IEKg&usqp=CAU",
+      "productname": "Ray-Ban",
+      "price": 1235,
+      "ratings": 4.3,
+      "discounts": 14,
+      "features": "Black, Small, Polarized",
+      "id": "7f97"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20230525/KYgT/646f078dd55b7d0c63eba802/-473Wx593H-464805313-brown-MODEL.jpg",
+      "productname": "Oakley",
+      "price": 1315,
+      "ratings": 4.5,
+      "discounts": 17,
+      "features": "Brown, Large, UV Protection",
+      "id": "e4dc"
+    },
+    {
+      "productimage": "https://shadesdaddyblog.com/wp-content/uploads/2013/11/474-21A3U3U1912-Panama-2.jpg",
+      "productname": "Persol",
+      "price": 1385,
+      "ratings": 4.6,
+      "discounts": 19,
+      "features": "Havana, Medium, Scratch Resistant",
+      "id": "ee40"
+    },
+    {
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTePdn3_03uTFBIGdJY_1mXP2wQflF06qj_Cg&usqp=CAU",
+      "productname": "Prada",
+      "price": 1320,
+      "ratings": 4.2,
+      "discounts": 16,
+      "features": "Blue, Small, Mirrored",
+      "id": "f9b3"
+    },
+    {
+      "productimage": "https://images.meesho.com/images/products/107326105/4melg_256.webp",
+      "productname": "Tom Ford",
+      "price": 1275,
+      "ratings": 4.4,
+      "discounts": 18,
+      "features": "Green, Large, Gradient",
+      "id": "990d"
+    },
+    {
+      "productimage": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//j/o/john-jacobs-jj-s13934-c4-sunglaasseas_g_4623_image_pla.jpg",
+      "productname": "Gucci",
+      "price": 1260,
+      "ratings": 4.7,
+      "discounts": 15,
+      "features": "Red, Medium, Anti-reflective",
+      "id": "5c55"
+    },
+    {
+      "productimage": "https://png.pngtree.com/png-clipart/20231020/original/pngtree-golden-sunglasses-eyewear-png-image_13377163.png",
+      "productname": "Cartier",
+      "price": 1420,
+      "ratings": 4.9,
+      "discounts": 22,
+      "features": "Gold, Small, Prescription",
+      "id": "1dd8"
+    },
+    {
+      "productimage": "https://i.ebayimg.com/images/g/-n0AAOSwgdVhjx5T/s-l1600.jpg",
+      "productname": "Chanel",
+      "price": 1365,
+      "ratings": 4.3,
+      "discounts": 16,
+      "features": "Silver, Large, Water Repellent",
+      "id": "d2c1"
+    },
+    {
+      "productimage": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/26564672/2023/12/21/56d498ae-caf9-48e9-9547-c5ec146642221703141302857JOKERWITCHWomenBrownLensBrownSquareSunglasses1.jpg",
+      "productname": "Burberry",
+      "price": 1255,
+      "ratings": 4.1,
+      "discounts": 14,
+      "features": "Beige, Medium, Dust Proof",
+      "id": "6d1b"
+    },
+    {
+      "productimage": "https://royalson.in/wp-content/uploads/2021/12/6-Men-Sunglasses-9.jpg",
+      "productname": "Dolce & Gabbana",
+      "price": 1310,
+      "ratings": 4.7,
+      "discounts": 20,
+      "features": "White, Large, Impact Resistant",
+      "id": "1cce"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20230417/Vmz1/643d2fb8711cf97ba72cc38a/-473Wx593H-469202734-purple-MODEL.jpg",
+      "productname": "Oliver Peoples",
+      "price": 1410,
+      "ratings": 4.5,
+      "discounts": 21,
+      "features": "Purple, Small, Scratch Proof",
+      "id": "8a56"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/sunglass/8/r/d/free-size-ber-kingsunglasses-original-imaghgpuhjzdjzyt.jpeg?q=20&crop=false",
+      "productname": "Maui Jim",
+      "price": 1435,
+      "ratings": 4.8,
+      "discounts": 24,
+      "features": "Yellow, Medium, UV Blocking",
+      "id": "93f6"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20230417/Ec2m/643d3736907deb497aea4161/-473Wx593H-469202722-black-MODEL.jpg",
+      "productname": "Ray-Ban",
+      "price": 1245,
+      "ratings": 4.4,
+      "discounts": 13,
+      "features": "Black, Large, Polarized",
+      "id": "67ad"
+    },
+    {
+      "productimage": "https://www.yourspex.com/media/catalog/product/cache/5e4566d8754043d64541fa2d23bb6094/1/_/1_5999.jpg",
+      "productname": "Oakley",
+      "price": 1335,
+      "ratings": 4.6,
+      "discounts": 18,
+      "features": "Brown, Small, UV Protection",
+      "id": "2e76"
+    },
+    {
+      "productimage": "https://karuneyewear.com/cdn/shop/products/S-PinguinoHavanaCafe2.jpg?v=1694016273",
+      "productname": "Persol",
+      "price": 1405,
+      "ratings": 4.8,
+      "discounts": 20,
+      "features": "Havana, Medium, Scratch Resistant",
+      "id": "bb40"
+    },
+    {
+      "productimage": "https://m.media-amazon.com/images/I/713d4D12siL._AC_UY1100_.jpg",
+      "productname": "Prada",
+      "price": 1330,
+      "ratings": 4.6,
+      "discounts": 17,
+      "features": "Blue, Large, Mirrored",
+      "id": "6863"
+    },
+    {
+      "productimage": "https://www.shadyshack.in/cdn/shop/products/20230313203328_IMG_9978_2.jpg?v=1703667591",
+      "productname": "Tom Ford",
+      "price": 1285,
+      "ratings": 4.4,
+      "discounts": 19,
+      "features": "Green, Medium, Gradient",
+      "id": "51bc"
+    },
+    {
+      "productimage": "https://i.pinimg.com/474x/dd/22/44/dd22449d93dd5adef213361e7e707db7.jpg",
+      "productname": "Gucci",
+      "price": 1270,
+      "ratings": 4.7,
+      "discounts": 14,
+      "features": "Red, Large, Anti-reflective",
+      "id": "abda"
+    },
+    {
+      "productimage": "https://www.dimeoptics.com/cdn/shop/files/diff-eyewear-tarzana-gold-gold-mirror-sunglasses-alt-1_600x.jpg?v=1706556507",
+      "productname": "Cartier",
+      "price": 1440,
+      "ratings": 4.9,
+      "discounts": 23,
+      "features": "Gold, Small, Prescription",
+      "id": "3db1"
+    },
+    {
+      "productimage": "https://res.ygstatic.com/lifestyle/m11102-506/men-landscape-1.1800.1514540512-69b.jpg",
+      "productname": "Chanel",
+      "price": 1375,
+      "ratings": 4.3,
+      "discounts": 17,
+      "features": "Silver, Large, Water Repellent",
+      "id": "f086"
+    },
+    {
+      "productimage": "https://www.charleskeith.in/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-in-products/default/dwb830b44f/images/hi-res/2022-L7-CK3-51280514-09-1.jpg?sw=370&sh=494",
+      "productname": "Burberry",
+      "price": 1265,
+      "ratings": 4.1,
+      "discounts": 15,
+      "features": "Beige, Medium, Dust Proof",
+      "id": "f354"
+    },
+    {
+      "productimage": "https://m.media-amazon.com/images/I/61P+2SwVdqL._AC_UY1100_.jpg",
+      "productname": "Dolce & Gabbana",
+      "price": 1335,
+      "ratings": 4.8,
+      "discounts": 20,
+      "features": "White, Large, Impact Resistant",
+      "id": "0cfb"
+    },
+    {
+      "productimage": "https://images-cdn.ubuy.co.in/634fe77350e16c751e2a0522-rimless-cartier-type-sunglasses-w.jpg",
+      "productname": "Oliver Peoples",
+      "price": 1435,
+      "ratings": 4.5,
+      "discounts": 21,
+      "features": "Purple, Small, Scratch Proof",
+      "id": "4852"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/sunglass/8/r/d/free-size-ber-kingsunglasses-original-imaghgpuhjzdjzyt.jpeg?q=20&crop=false",
+      "productname": "Maui Jim",
+      "price": 1455,
+      "ratings": 4.8,
+      "discounts": 22,
+      "features": "Yellow, Medium, UV Blocking",
+      "id": "a40d"
+    },
+    {
+      "productimage": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/16905008/2023/8/25/701dea10-bf32-44a4-bab7-d68b32e7f1681692960193876-Voyage-Unisex-Black-Lens--Black-Round-Sunglasses-1915MG3625--1.jpg",
+      "productname": "Ray-Ban",
+      "price": 1255,
+      "ratings": 4.3,
+      "discounts": 14,
+      "features": "Black, Small, Polarized",
+      "id": "1beb"
+    },
+    {
+      "productimage": "https://www.netmeds.com/images/product-v1/600x600/915043/vision_express_21327_brown_brown_aviator_sunglasses_1s_0_0.jpg",
+      "productname": "Oakley",
+      "price": 1345,
+      "ratings": 4.5,
+      "discounts": 17,
+      "features": "Brown, Large, UV Protection",
+      "id": "cc76"
+    }
+  ],
+  "watches": [
+    {
+      "productimage": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7646cf71/images/Titan/Catalog/90140QM03_1.jpg?sw=800&sh=800",
+      "productname": "Titan",
+      "price": 2500,
+      "discounts": 30,
+      "ratings": 4.5,
+      "features": "Water resistant, Stainless steel strap",
+      "id": "83c2"
+    },
+    {
+      "productimage": "data:image/jpeg;base64,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",
+      "productname": "Maxima",
+      "price": 1800,
+      "discounts": 20,
+      "ratings": 4.2,
+      "features": "Analog display, Leather strap",
+      "id": "92e6"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/r/r/g/-original-imagqfu29dkerdnc.jpeg?q=90&crop=false",
+      "productname": "Fastrack",
+      "price": 2800,
+      "discounts": 35,
+      "ratings": 4.7,
+      "features": "Chronograph, Silicone strap",
+      "id": "a729"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/SELLER/Default/2021/3/KC/RD/WA/26510561/2020-08-15-21-37-img-4609.JPG",
+      "productname": "Fossil",
+      "price": 2900,
+      "discounts": 40,
+      "ratings": 4.4,
+      "features": "Date display, Stainless steel case",
+      "id": "a7f0"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/e/g/f/-original-imagrk9rypmyhjmq.jpeg?q=90&crop=true",
+      "productname": "Timex",
+      "price": 2100,
+      "discounts": 25,
+      "ratings": 4.1,
+      "features": "Indiglo light-up dial, Resin strap",
+      "id": "a1f9"
+    },
+    {
+      "productimage": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0814ec34/images/Titan/Catalog/1805QM04_1.jpg?sw=800&sh=800",
+      "productname": "Titan",
+      "price": 2700,
+      "discounts": 45,
+      "ratings": 4.6,
+      "features": "Scratch-resistant glass, Two-tone bracelet",
+      "id": "7224"
+    },
+    {
+      "productimage": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0e5fccac/images/Fastrack/Catalog/6222SM01_1.jpg?sw=800&sh=800",
+      "productname": "Fastrack",
+      "price": 2400,
+      "discounts": 30,
+      "ratings": 4.3,
+      "features": "Digital display, Rubber strap",
+      "id": "1d4c"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/y/l/l/-original-imagt7fkvkdqr6ka.jpeg?q=90&crop=false",
+      "productname": "Maxima",
+      "price": 1950,
+      "discounts": 25,
+      "ratings": 4,
+      "features": "Quartz movement, Stainless steel back",
+      "id": "05cb"
+    },
+    {
+      "productimage": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10949972/2023/1/4/122f4307-5d7a-49e5-9a15-bf02ad270c861672823656355-Fossil-MODERN-SOP-Women-Rose-Gold-Analogue-Watch-BQ1561-7481-1.jpg",
+      "productname": "Fossil",
+      "price": 3000,
+      "discounts": 50,
+      "ratings": 4.8,
+      "features": "Three-hand analog, Genuine leather strap",
+      "id": "ccd9"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/t/h/t/-original-imagrk9sstfxxhcd.jpeg?q=20&crop=false",
+      "productname": "Timex",
+      "price": 2200,
+      "discounts": 35,
+      "ratings": 4.2,
+      "features": "Indiglo night-light, Nylon strap",
+      "id": "7b7f"
+    },
+    {
+      "productimage": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0814ec34/images/Titan/Catalog/1805QM04_1.jpg?sw=800&sh=800",
+      "productname": "Titan",
+      "price": 2300,
+      "discounts": 40,
+      "ratings": 4.5,
+      "features": "Mineral crystal, Gold-tone case",
+      "id": "067f"
+    },
+    {
+      "productimage": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw020e9544/images/Fastrack/Catalog/3246NL01_1.jpg?sw=800&sh=800",
+      "productname": "Fastrack",
+      "price": 2600,
+      "discounts": 45,
+      "ratings": 4.7,
+      "features": "Alarm clock, Stainless steel strap",
+      "id": "be5b"
+    },
+    {
+      "productimage": "https://www.maximawatches.com/cdn/shop/files/66983PMGI_grande.png?v=1683888981",
+      "productname": "Maxima",
+      "price": 1750,
+      "discounts": 20,
+      "ratings": 4.1,
+      "features": "Analog display, Leather strap",
+      "id": "e41f"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20210521/vLAa/60a7cdacf997ddb312a5fa29/-473Wx593H-460907367-black-MODEL.jpg",
+      "productname": "Timex",
+      "price": 2050,
+      "discounts": 30,
+      "ratings": 4.4,
+      "features": "Quartz movement, Stainless steel case",
+      "id": "fd65"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/p/q/n/-original-imagszc6vsjmkmbg.jpeg?q=20&crop=false",
+      "productname": "Fossil",
+      "price": 2850,
+      "discounts": 35,
+      "ratings": 4.3,
+      "features": "Date display, Genuine leather strap",
+      "id": "9df3"
+    },
+    {
+      "productimage": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw3e10e985/images/Titan/Catalog/1713BM02_1.jpg?sw=800&sh=800",
+      "productname": "Titan",
+      "price": 2650,
+      "discounts": 40,
+      "ratings": 4.6,
+      "features": "Scratch-resistant glass, Stainless steel bracelet",
+      "id": "4e4e"
+    },
+    {
+      "productimage": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw5e84e022/images/Fastrack/Catalog/3287QM02_1.jpg?sw=800&sh=800",
+      "productname": "Fastrack",
+      "price": 2350,
+      "discounts": 25,
+      "ratings": 4.2,
+      "features": "Chronograph, Silicone strap",
+      "id": "8d7f"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20230424/d2WW/64469afe907deb497afc94c6/-473Wx593H-469446575-silver-MODEL.jpg",
+      "productname": "Maxima",
+      "price": 1900,
+      "discounts": 20,
+      "ratings": 4,
+      "features": "Analog display, Leather strap",
+      "id": "2d7a"
+    },
+    {
+      "productimage": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23137910/2023/6/26/bb459a9c-5994-40a2-93c2-2883c715bba21687765278261TimexMenAnalogueWatchTW00ZR3611.jpg",
+      "productname": "Timex",
+      "price": 2150,
+      "discounts": 30,
+      "ratings": 4.1,
+      "features": "Indiglo night-light, Resin strap",
+      "id": "d671"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/p/q/n/-original-imagszc6vsjmkmbg.jpeg?q=20&crop=false",
+      "productname": "Fossil",
+      "price": 2950,
+      "discounts": 35,
+      "ratings": 4.8,
+      "features": "Three-hand analog, Stainless steel case",
+      "id": "8aa8"
+    },
+    {
+      "productimage": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6c9df22a/images/Titan/Catalog/2656WM01_1.jpg?sw=800&sh=800",
+      "productname": "Titan",
+      "price": 2400,
+      "discounts": 40,
+      "ratings": 4.5,
+      "features": "Mineral crystal, Two-tone bracelet",
+      "id": "2327"
+    },
+    {
+      "productimage": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7276570b/images/Fastrack/Catalog/3286KM01_1.jpg?sw=800&sh=800",
+      "productname": "Fastrack",
+      "price": 2500,
+      "discounts": 45,
+      "ratings": 4.7,
+      "features": "Digital display, Rubber strap",
+      "id": "c46e"
+    },
+    {
+      "productimage": "https://images.jdmagicbox.com/quickquotes/images_main/maxima_gold_men_watch_16286cmgy__11588988_0.jpg",
+      "productname": "Maxima",
+      "price": 1850,
+      "discounts": 20,
+      "ratings": 4.2,
+      "features": "Quartz movement, Stainless steel back",
+      "id": "0ebc"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/SELLER/Default/2021/8/PZ/SE/LH/58854277/timex.jpg",
+      "productname": "Timex",
+      "price": 2100,
+      "discounts": 30,
+      "ratings": 4.4,
+      "features": "Indiglo light-up dial, Nylon strap",
+      "id": "519d"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/SELLER/Default/2021/3/EI/WJ/UP/123576755/img-4139.JPG",
+      "productname": "Fossil",
+      "price": 2800,
+      "discounts": 35,
+      "ratings": 4.3,
+      "features": "Date display, Genuine leather strap",
+      "id": "f8cc"
+    },
+    {
+      "productimage": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwe1a94e04/images/Titan/Catalog/1849YM01_1.jpg?sw=800&sh=800",
+      "productname": "Titan",
+      "price": 2700,
+      "discounts": 40,
+      "ratings": 4.6,
+      "features": "Scratch-resistant glass, Gold-tone case",
+      "id": "f32d"
+    },
+    {
+      "productimage": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf389786d/images/Fastrack/Catalog/3255SL03_1.jpg?sw=800&sh=800",
+      "productname": "Fastrack",
+      "price": 2450,
+      "discounts": 25,
+      "ratings": 4.2,
+      "features": "Chronograph, Silicone strap",
+      "id": "b33c"
+    },
+    {
+      "productimage": "https://tiimg.tistatic.com/fp/1/006/399/maxima-watches-269.jpg",
+      "productname": "Maxima",
+      "price": 2000,
+      "discounts": 20,
+      "ratings": 4,
+      "features": "Analog display, Leather strap",
+      "id": "1bc3"
+    },
+    {
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp68r6Wid9jvp-iTRZsXMB28wEnmew7l9a-0xZFqd5iTvugrZMqgnBYa_rQ8MZdtLGRfA&usqp=CAU",
+      "productname": "Timex",
+      "price": 2250,
+      "discounts": 30,
+      "ratings": 4.1,
+      "features": "Indiglo night-light, Resin strap",
+      "id": "8bc1"
+    },
+    {
+      "productimage": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014383697_437Wx649H_202209090704521.jpeg",
+      "productname": "Fossil",
+      "price": 2900,
+      "discounts": 35,
+      "ratings": 4.8,
+      "features": "Three-hand analog, Stainless steel case",
+      "id": "4a2e"
+    },
+    {
+      "productimage": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwcf0a7e93/images/Titan/Catalog/1696KC01_1.jpg?sw=800&sh=800",
+      "productname": "Titan",
+      "price": 2350,
+      "discounts": 40,
+      "ratings": 4.5,
+      "features": "Mineral crystal, Stainless steel bracelet",
+      "id": "8f34"
+    },
+    {
+      "productimage": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6123eb03/images/Fastrack/Catalog/3303KM01_1.jpg?sw=800&sh=800",
+      "productname": "Fastrack",
+      "price": 2550,
+      "discounts": 45,
+      "ratings": 4.7,
+      "features": "Alarm clock, Rubber strap",
+      "id": "4406"
+    },
+    {
+      "productimage": "https://images-static.nykaa.com/media/catalog/product/1/2/12cda2363262CMGI_1.jpg?tr=w-500",
+      "productname": "Maxima",
+      "price": 1800,
+      "discounts": 20,
+      "ratings": 4.2,
+      "features": "Analog display, Leather strap",
+      "id": "e557"
+    },
+    {
+      "productimage": "https://img.tatacliq.com/images/i4/437Wx649H/MP000000006908501_437Wx649H_20200512190928.jpeg",
+      "productname": "Timex",
+      "price": 2050,
+      "discounts": 30,
+      "ratings": 4.4,
+      "features": "Quartz movement, Stainless steel case",
+      "id": "971d"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/0/k/a/-original-imagphkyrrrnaryb.jpeg?q=90&crop=false",
+      "productname": "Fossil",
+      "price": 2850,
+      "discounts": 35,
+      "ratings": 4.3,
+      "features": "Date display, Genuine leather strap",
+      "id": "4ba9"
+    },
+    {
+      "productimage": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1129858/2022/4/20/6e6baa2b-bbc7-484e-b862-bd84cee7b9091650455712717-Titan-Men-Brown-Dial-Watch-1584SL04-7601650455712430-1.jpg",
+      "productname": "Titan",
+      "price": 2600,
+      "discounts": 40,
+      "ratings": 4.6,
+      "features": "Scratch-resistant glass, Two-tone bracelet",
+      "id": "ceed"
+    },
+    {
+      "productimage": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw100e06cf/images/Fastrack/Catalog/3098SL02_1.jpg?sw=800&sh=800",
+      "productname": "Fastrack",
+      "price": 2400,
+      "discounts": 25,
+      "ratings": 4.2,
+      "features": "Chronograph, Silicone strap",
+      "id": "351b"
+    },
+    {
+      "productimage": "https://images.jdmagicbox.com/quickquotes/images_main/maxima_attivo_men_watch_22725lmgi__11667111_0.jpg",
+      "productname": "Maxima",
+      "price": 1950,
+      "discounts": 20,
+      "ratings": 4,
+      "features": "Analog display, Leather strap",
+      "id": "4feb"
+    },
+    {
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIvTf27KyoXkxq3lqZ5wB44LvGQG16a5jKHj27r8vzlu692pjhO-A7wvMpq_oabkMmMHU&usqp=CAU",
+      "productname": "Timex",
+      "price": 2200,
+      "discounts": 30,
+      "ratings": 4.1,
+      "features": "Indiglo night-light, Resin strap",
+      "id": "de13"
+    },
+    {
+      "productimage": "https://www.fossil.com/on/demandware.static/-/Library-Sites-FossilSharedLibrary/default/dwd865883d/2022/SU22/set_0725_us_watches_dgp/Slices/0725_DGP_Watches_Refresh_Mens_silver.jpg",
+      "productname": "Fossil",
+      "price": 3000,
+      "discounts": 50,
+      "ratings": 4.8,
+      "features": "Three-hand analog, Genuine leather strap",
+      "id": "7c19"
+    }
+  ],
+  "shoes": [
+    {
+      "productimage": "https://5.imimg.com/data5/MI/ND/MY-11707440/power-grey-sports-shoes-for-men-f839202100.png",
+      "productname": "Bata",
+      "price": 1999,
+      "discounts": 32,
+      "ratings": 4.5,
+      "features": "7/8/9/10",
+      "id": "57bb"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/MI/ND/MY-11707440/power-grey-sports-shoes-for-men-f839202100.png",
+      "productname": "Bata",
+      "price": 1499,
+      "discounts": 20,
+      "ratings": 4.2,
+      "features": "8/9/10/11",
+      "id": "8e38"
+    },
+    {
+      "productimage": "https://rukminim1.flixcart.com/image/300/300/xif0q/shoe/o/h/c/-original-imagg4kchp7fjyez.jpeg",
+      "productname": "Lakhani",
+      "price": 2199,
+      "discounts": 35,
+      "ratings": 4.7,
+      "features": "7/9/10/12",
+      "id": "bf41"
+    },
+    {
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bAzuC7_lP-usb0_y4keyE6oSG9kNkm1YKg&usqp=CAU",
+      "productname": "Paragon",
+      "price": 1799,
+      "discounts": 25,
+      "ratings": 4.3,
+      "features": "8/9/10/11",
+      "id": "0091"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/c/g/z/-original-imagg7t3yuwguyw7.jpeg?q=90&crop=false",
+      "productname": "Campus",
+      "price": 2399,
+      "discounts": 40,
+      "ratings": 4.9,
+      "features": "8/9/10/12",
+      "id": "0620"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/ANDROID/Default/2020/12/VF/OV/PE/20518332/product-jpeg-500x500.jpg",
+      "productname": "Bata",
+      "price": 2099,
+      "discounts": 37,
+      "ratings": 4.6,
+      "features": "7/8/10/11",
+      "id": "7f97"
+    },
+    {
+      "productimage": "https://m.media-amazon.com/images/I/71ueVp3s0dL._AC_UY300_.jpg",
+      "productname": "Relaxo",
+      "price": 1699,
+      "discounts": 27,
+      "ratings": 4.4,
+      "features": "8/9/11/12",
+      "id": "c785"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/ET/AY/UJ/SELLER-39237719/mens-lakhani-081-sports-shoes.jpg",
+      "productname": "Lakhani",
+      "price": 2299,
+      "discounts": 32,
+      "ratings": 4.8,
+      "features": "7/9/10/12",
+      "id": "6fed"
+    },
+    {
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bAzuC7_lP-usb0_y4keyE6oSG9kNkm1YKg&usqp=CAU",
+      "productname": "Paragon",
+      "price": 1899,
+      "discounts": 22,
+      "ratings": 4.1,
+      "features": "8/9/10/11",
+      "id": "5c2d"
+    },
+    {
+      "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/c/g/z/-original-imagg7t3yuwguyw7.jpeg?q=90&crop=false",
+      "productname": "Campus",
+      "price": 2499,
+      "discounts": 45,
+      "ratings": 5,
+      "features": "8/9/10/12",
+      "id": "c55f"
+    },
+    {
+      "productimage": "https://www.aishcart.in/1523-large_default/bata-disney-red-casual-shoes-for-boys.jpg",
+      "productname": "Bata",
+      "price": 2199,
+      "discounts": 33,
+      "ratings": 4.7,
+      "features": "7/8/9/11",
+      "id": "dec7"
+    },
+    {
+      "productimage": "https://m.media-amazon.com/images/I/71ueVp3s0dL._AC_UY300_.jpg",
+      "productname": "Relaxo",
+      "price": 1799,
+      "discounts": 23,
+      "ratings": 4.3,
+      "features": "8/9/10/12",
+      "id": "100e"
+    },
+    {
+      "productimage": "https://images.jdmagicbox.com/quickquotes/images_main/lakhani-touch-1066-black-rust-size-6x10-men-shoes-26-05-2021-090-226970859-0dk5b.jpg",
+      "productname": "Lakhani",
+      "price": 2399,
+      "discounts": 38,
+      "ratings": 4.9,
+      "features": "7/9/10/12",
+      "id": "5cf3"
+    },
+    {
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bAzuC7_lP-usb0_y4keyE6oSG9kNkm1YKg&usqp=CAU",
+      "productname": "Paragon",
+      "price": 1999,
+      "discounts": 28,
+      "ratings": 4.5,
+      "features": "8/9/10/11",
+      "id": "bd35"
+    },
+    {
+      "productimage": "https://m.media-amazon.com/images/I/71ueVp3s0dL._AC_UY300_.jpg",
+      "productname": "Campus",
+      "price": 2599,
+      "discounts": 47,
+      "ratings": 5,
+      "features": "8/9/10/12",
+      "id": "9c8d"
+    },
+    {
+      "productimage": "https://www.aishcart.in/1523-large_default/bata-disney-red-casual-shoes-for-boys.jpg",
+      "productname": "Bata",
+      "price": 2299,
+      "discounts": 35,
+      "ratings": 4.8,
+      "features": "7/8/10/11",
+      "id": "1e92"
+    },
+    {
+      "productimage": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14962324/2022/7/1/f77c75a9-60e6-42aa-a02d-0e3df93652bb1656673657025-Sparx-Men-White-Solid-Round-Toe-Running-Shoes-26916566736566-1.jpg",
+      "productname": "Relaxo",
+      "price": 1899,
+      "discounts": 25,
+      "ratings": 4.2,
+      "features": "8/9/11/12",
+      "id": "ee9d"
+    },
+    {
+      "productimage": "https://images.jdmagicbox.com/quickquotes/images_main/lakhani-touch-1066-black-rust-size-6x10-men-shoes-26-05-2021-090-226970859-0dk5b.jpg",
+      "productname": "Lakhani",
+      "price": 2499,
+      "discounts": 42,
+      "ratings": 4.9,
+      "features": "7/9/10/12",
+      "id": "979d"
+    },
+    {
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bAzuC7_lP-usb0_y4keyE6oSG9kNkm1YKg&usqp=CAU",
+      "productname": "Paragon",
+      "price": 2099,
+      "discounts": 30,
+      "ratings": 4.6,
+      "features": "8/9/10/11",
+      "id": "5a51"
+    },
+    {
+      "productimage": "https://m.media-amazon.com/images/I/71ueVp3s0dL._AC_UY300_.jpg",
+      "productname": "Campus",
+      "price": 2699,
+      "discounts": 50,
+      "ratings": 5,
+      "features": "8/9/10/12",
+      "id": "3a12"
+    }
+  ],
+  "jewellary": [
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/85fb40bb-5ea4-450b-adfe-17bd936ec22d/primary/medium",
+      "productname": "Chanel",
+      "price": 10000,
+      "discounts": 17,
+      "ratings": 4.5,
+      "features": "Gold and Diamond Comète Heart Drop Earclips",
+      "id": "d4cf"
+    },
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/84270d83-4ce6-44bd-95e4-b975d70bfe83/primary/medium",
+      "productname": "Mauboussin",
+      "price": 12000,
+      "discounts": 19,
+      "ratings": 4.2,
+      "features": "Vintage Gold and Diamond Earclips",
+      "id": "b15f"
+    },
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/a4719fa0-3fb3-4952-af91-96dace2683f4/primary/medium",
+      "productname": "Chanel",
+      "price": 13199,
+      "discounts": 20,
+      "ratings": 4.7,
+      "features": "Gold Metal Earrings",
+      "id": "9a6c"
+    },
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/bf934228-c4f0-48aa-ae24-51436c9dd055/primary/medium",
+      "productname": "Chanel",
+      "price": 9499,
+      "discounts": 21,
+      "ratings": 4.9,
+      "features": "Silver Strass and Crystal CC Long Dangle",
+      "id": "01c2"
+    },
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/7bdfb0bc-9c41-464e-bda2-e26eccca9ff7/primary/medium",
+      "productname": "Cartier",
+      "price": 11500,
+      "discounts": 18,
+      "ratings": 4.6,
+      "features": "Gold Earclips",
+      "id": "a8ee"
+    },
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/4957dccb-be5c-45ed-a660-b134e0a9590f/primary/medium",
+      "productname": "Cartier, Aldo Cipullo",
+      "price": 9659,
+      "discounts": 21,
+      "ratings": 4.8,
+      "features": "Vintage Gold, Lapis Lazuli and Diamond Earclips",
+      "id": "97a4"
+    },
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/c416395c-245c-4076-93a5-971b8999b87d/primary/medium",
+      "productname": "Hermès",
+      "price": 17999,
+      "discounts": 14,
+      "ratings": 4.4,
+      "features": "Gold and Diamond Chaine d'Ancre Drop Earrings",
+      "id": "0cc7"
+    },
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/7795f477-e94f-4307-9070-3752a2219e14/primary/medium",
+      "productname": "Chanel",
+      "price": 12849,
+      "discounts": 19,
+      "ratings": 4.3,
+      "features": "Gold Metal and Crystal Interlocking Heart CC Earrings",
+      "id": "3fc1"
+    },
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/af6d3733-be3c-4ade-b522-21a0f1567719/primary/medium",
+      "productname": "Tiffany & Co., Paloma Picasso",
+      "price": 9000,
+      "discounts": 13,
+      "ratings": 4.7,
+      "features": "Gold and Amethyst Earclips",
+      "id": "1a5f"
+    },
+    {
+      "productimage": "https://dam.sothebys.com/dam/image/Item/4957dccb-be5c-45ed-a660-b134e0a9590f/primary/medium",
+      "productname": "Chanel",
+      "price": 10000,
+      "discounts": 17,
+      "ratings": 4.5,
+      "features": "Gold Metal, Clear Gripoix Grape CC Cross Earrings,",
+      "id": "bc99"
+    },
+    {
+      "productimage": "https://cdn1.jewelxy.com/live/img/business_product/7OOQveQu2n_20220323155709.jpg",
+      "productname": "Cartier | Necklace",
+      "price": 10000,
+      "discounts": 10,
+      "ratings": 4.5,
+      "features": "Exquisite gold necklace.",
+      "id": "cbc0"
+    },
+    {
+      "productimage": "https://cdn1.jewelxy.com/live/img/business_product/7OOQveQu2n_20220323155709.jpg",
+      "productname": "Rolex | Necklace",
+      "price": 122000,
+      "discounts": 15,
+      "ratings": 4.2,
+      "features": "Embedded gemstones sparkle elegantly",
+      "id": "8060"
+    },
+    {
+      "productimage": "https://cdn1.jewelxy.com/live/img/business_product/7OOQveQu2n_20220323155709.jpg",
+      "productname": "Rolex | Necklace",
+      "price": 173000,
+      "discounts": 20,
+      "ratings": 4.7,
+      "features": "Adjustable length for versatile styling and Embedded gemstones sparkle elegantly",
+      "id": "38b4"
+    },
+    {
+      "productimage": "https://cdn1.jewelxy.com/live/img/business_product/7OOQveQu2n_20220323155709.jpg",
+      "productname": "Mejuri | Necklace ",
+      "price": 74000,
+      "discounts": 12,
+      "ratings": 4.9,
+      "features": "Intricate pendant enhances charm and Timeless beauty in design",
+      "id": "db1d"
+    },
+    {
+      "productimage": "https://cdn1.jewelxy.com/live/img/business_product/7OOQveQu2n_20220323155709.jpg",
+      "productname": "Mejuri | Necklace",
+      "price": 85000,
+      "discounts": 18,
+      "ratings": 4.6,
+      "features": "An embodiment of style and sophistication.",
+      "id": "c9d3"
+    },
+    {
+      "productimage": "https://cdn1.jewelxy.com/live/img/business_product/7OOQveQu2n_20220323155709.jpg",
+      "productname": "Gorjana | Necklace",
+      "price": 126000,
+      "discounts": 21,
+      "ratings": 4.8,
+      "features": "Uniquely combines luxury and affordability",
+      "id": "42f6"
+    },
+    {
+      "productimage": "https://sukkhi.com/cdn/shop/products/N73718_MIXBG1_2000x.jpg?v=1551866942",
+      "productname": "Gorjana | Necklace",
+      "price": 177000,
+      "discounts": 14,
+      "ratings": 4.4,
+      "features": "Perfect accessory for special occasions.",
+      "id": "0519"
+    },
+    {
+      "productimage": "https://sukkhi.com/cdn/shop/products/N73718_MIXBG1_2000x.jpg?v=1551866942",
+      "productname": "Gorjana | Necklace",
+      "price": 58000,
+      "discounts": 19,
+      "ratings": 4.3,
+      "features": "Exquisite gold necklace.",
+      "id": "32ec"
+    },
+    {
+      "productimage": "https://sukkhi.com/cdn/shop/products/N73718_MIXBG1_2000x.jpg?v=1551866942",
+      "productname": "Pandora | Necklace",
+      "price": 89000,
+      "discounts": 13,
+      "ratings": 4.7,
+      "features": "Embedded gemstones sparkle elegantly.",
+      "id": "f405"
+    },
+    {
+      "productimage": "https://sukkhi.com/cdn/shop/products/N73718_MIXBG1_2000x.jpg?v=1551866942",
+      "productname": "Pandora | Necklace",
+      "price": 100000,
+      "discounts": 17,
+      "ratings": 4.5,
+      "features": "Intricate pendant enhances charm.",
+      "id": "eb04"
+    },
+    {
+      "productimage": "https://kinclimg1.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BIPO0829V03_YAA18DIG6XXXXXXXX_ABCD00-PICS-00000-1024-61239.png",
+      "productname": "Mica | Braclte",
+      "price": 27000,
+      "discounts": 10,
+      "ratings": 4.5,
+      "features": "Feature A",
+      "id": "b53f"
+    },
+    {
+      "productimage": "https://kinclimg8.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BIPO0671V01-POSTER-50047.jpg",
+      "productname": "P.N.G | Braclet",
+      "price": 2000,
+      "discounts": 15,
+      "ratings": 4.2,
+      "features": "Feature B",
+      "id": "ba44"
+    },
+    {
+      "productimage": "https://kinclimg8.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BIPO0671V01-POSTER-50047.jpg",
+      "productname": "Ranka | Braclet",
+      "price": 13000,
+      "discounts": 20,
+      "ratings": 4.7,
+      "features": "Feature C",
+      "id": "512b"
+    },
+    {
+      "productimage": "https://kinclimg8.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BIPO0671V01-POSTER-50047.jpg",
+      "productname": "Juhii | Braclet",
+      "price": 42000,
+      "discounts": 12,
+      "ratings": 4.9,
+      "features": "Feature D",
+      "id": "9bc3"
+    },
+    {
+      "productimage": "https://kinclimg8.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BIPO0671V01-POSTER-50047.jpg",
+      "productname": "Ranka | Braclet",
+      "price": 25000,
+      "discounts": 18,
+      "ratings": 4.6,
+      "features": "Feature E",
+      "id": "187b"
+    },
+    {
+      "productimage": "https://kinclimg8.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BIPO0671V01-POSTER-50047.jpg",
+      "productname": "Ranka | Braclet",
+      "price": 16000,
+      "discounts": 21,
+      "ratings": 4.8,
+      "features": "Feature F",
+      "id": "cb86"
+    },
+    {
+      "productimage": "https://kinclimg8.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BIPO0671V01-POSTER-50047.jpg",
+      "productname": "P.N.G | | Braclet",
+      "price": 7000,
+      "discounts": 14,
+      "ratings": 4.4,
+      "features": "Feature G",
+      "id": "90a1"
+    },
+    {
+      "productimage": "https://kinclimg8.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BIPO0671V01-POSTER-50047.jpg",
+      "productname": "Ranka | Braclet",
+      "price": 28000,
+      "discounts": 19,
+      "ratings": 4.3,
+      "features": "Feature H",
+      "id": "096e"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20211006/TJLJ/615de86baeb2692b85b291b4/-473Wx593H-6005688560-multi-MODEL2.jpg",
+      "productname": "Ranka | Braclet",
+      "price": 29000,
+      "discounts": 13,
+      "ratings": 4.7,
+      "features": "Golden finising and customizable",
+      "id": "9d4f"
+    },
+    {
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/20211006/TJLJ/615de86baeb2692b85b291b4/-473Wx593H-6005688560-multi-MODEL2.jpg",
+      "productname": "P.N.G | Braclet",
+      "price": 17000,
+      "discounts": 17,
+      "ratings": 4.5,
+      "features": "Silver and customize",
+      "id": "205c"
+    },
+    {
+      "productimage": "https://kinclimg3.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BIDG0319R180_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-66194.png",
+      "productname": "Ranka Jewellars | ring",
+      "price": 4399,
+      "discounts": 10,
+      "ratings": 4.5,
+      "features": "open to customize, golden shade and smooth finishing",
+      "id": "4fe4"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/OF/PU/MY-40208357/ladies-gold-rings.jpg",
+      "productname": "Rajaram | ring",
+      "price": 2300,
+      "discounts": 15,
+      "ratings": 4.2,
+      "features": "Pure 22 caret gold, customize",
+      "id": "b8ac"
+    },
+    {
+      "productimage": "https://5.imimg.com/data5/OF/PU/MY-40208357/ladies-gold-rings.jpg",
+      "productname": "Ajio | Diamond ring",
+      "price": 22000,
+      "discounts": 20,
+      "ratings": 4.7,
+      "features": "Pure diamond",
+      "id": "0e94"
+    }
+  ],
+  "bagsLuggae": [],
+  "kidsApperal": [],
+  "mensApperal": [],
+  "womensApperal": [],
+  "toysandgames": [],
+  "grocery": [],
+  "household": [
+    {
+      "id": "0801",
+      "selectCategory": "household",
+      "productimage": "https://images.heb.com/is/image/HEBGrocery/001285816?fit=constrain,1&wid=800&hei=800&fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+      "productname": "Dettol Soap",
+      "price": 50,
+      "ratings": 4.5,
+      "discounts": 50,
+      "features": "daily soap which gives fresh smell to the body"
+    }
+  ],
+  "beautyProducts": [],
+  "medical": [],
+  "home": [],
+  "kitchen": [],
+  "sports": [
+    {
+      "id": "89cd",
+      "selectCategory": "sports",
+      "productimage": "data:image/jpeg;base64,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",
+      "productname": "Dhoni Bat",
+      "price": 1200,
+      "ratings": 4.2,
+      "discounts": 20,
+      "features": "this is mahi's fav bat"
+    }
+  ],
+  "funiture": [],
+  "books": [
+    {
+      "id": "8df2",
+      "selectCategory": "books",
+      "productimage": "novel",
+      "productname": "Meri book",
+      "price": 500,
+      "ratings": 4,
+      "discounts": 10,
+      "features": "sdf"
+    }
+  ],
+  "electronicsTv": [],
+  "'computerAceessories'": [],
+  "musicalInstruments": [],
+  "placeOrders": [
+    {
+      "0": {
+        "id": "0CW76628WX1853435",
+        "intent": "CAPTURE",
+        "status": "COMPLETED",
+        "purchase_units": [
+          {
+            "reference_id": "default",
+            "amount": {
+              "currency_code": "USD",
+              "value": "2200.00"
+            },
+            "payee": {
+              "email_address": "sb-n4ny430091268@business.example.com",
+              "merchant_id": "6VBT83GLU2Y2E"
+            },
+            "soft_descriptor": "PAYPAL *TEST STORE",
+            "shipping": {
+              "name": {
+                "full_name": "jack lion"
+              },
+              "address": {
+                "address_line_1": "125 samy line jindal colony",
+                "admin_area_2": "New York",
+                "admin_area_1": "NY",
+                "postal_code": "10001",
+                "country_code": "US"
+              }
+            },
+            "payments": {
+              "captures": [
+                {
+                  "id": "4PY47487YX981903W",
+                  "status": "COMPLETED",
+                  "amount": {
+                    "currency_code": "USD",
+                    "value": "2200.00"
+                  },
+                  "final_capture": true,
+                  "seller_protection": {
+                    "status": "NOT_ELIGIBLE"
+                  },
+                  "create_time": "2024-03-25T03:54:11Z",
+                  "update_time": "2024-03-25T03:54:11Z"
+                }
+              ]
+            }
+          }
+        ],
+        "payer": {
+          "name": {
+            "given_name": "jack",
+            "surname": "lion"
+          },
+          "email_address": "jack@gmail.com",
+          "payer_id": "EKDBT3VM5R3AN",
+          "address": {
+            "country_code": "US"
+          }
+        },
+        "create_time": "2024-03-25T03:53:13Z",
+        "update_time": "2024-03-25T03:54:11Z",
+        "links": [
+          {
+            "href": "https://api.sandbox.paypal.com/v2/checkout/orders/0CW76628WX1853435",
+            "rel": "self",
+            "method": "GET"
+          }
+        ]
+      },
+      "1": {
+        "proudctID": 97218921562215,
+        "productimage": "https://m.media-amazon.com/images/I/51OQ3sPBAsL._AC_UY1100_.jpg",
+        "productname": "Ray-Ban",
+        "price": 1200,
+        "ratings": 4.5,
+        "discounts": 10,
+        "features": "Black, Medium, Polarized",
+        "id": "cf5f"
+      },
+      "2": {
+        "productimage": "https://beardo.in/cdn/shop/products/1_938b20a4-734b-4d1e-b138-6dbd7f4425ef.jpg?v=1681993775&width=1946",
+        "productname": "Persol",
+        "price": 1400,
+        "ratings": 4.8,
+        "discounts": 20,
+        "features": "Havana, Small, Scratch Resistant",
+        "id": "1c79"
+      },
+      "3": "IMM6266805",
+      "id": "69f5"
+    },
+    {
+      "0": {
+        "id": "6RA39675LH1640547",
+        "intent": "CAPTURE",
+        "status": "COMPLETED",
+        "purchase_units": [
+          {
+            "reference_id": "default",
+            "amount": {
+              "currency_code": "USD",
+              "value": "56486.68"
+            },
+            "payee": {
+              "email_address": "sb-n4ny430091268@business.example.com",
+              "merchant_id": "6VBT83GLU2Y2E"
+            },
+            "soft_descriptor": "PAYPAL *TEST STORE",
+            "shipping": {
+              "name": {
+                "full_name": "Saurabh Gunturkar"
+              },
+              "address": {
+                "address_line_1": "mamta colony",
+                "admin_area_2": "New York",
+                "admin_area_1": "NY",
+                "postal_code": "10001",
+                "country_code": "US"
+              }
+            },
+            "payments": {
+              "captures": [
+                {
+                  "id": "90V95159WV771690A",
+                  "status": "COMPLETED",
+                  "amount": {
+                    "currency_code": "USD",
+                    "value": "56486.68"
+                  },
+                  "final_capture": true,
+                  "seller_protection": {
+                    "status": "NOT_ELIGIBLE"
+                  },
+                  "create_time": "2024-03-30T02:51:54Z",
+                  "update_time": "2024-03-30T02:51:54Z"
+                }
+              ]
+            }
+          }
+        ],
+        "payer": {
+          "name": {
+            "given_name": "Saurabh",
+            "surname": "Gunturkar"
+          },
+          "email_address": "saurabhgunturkar07@gmail.com",
+          "payer_id": "2LSEZMK9WMUDY",
+          "address": {
+            "country_code": "US"
+          }
+        },
+        "create_time": "2024-03-30T02:49:06Z",
+        "update_time": "2024-03-30T02:51:54Z",
+        "links": [
+          {
+            "href": "https://api.sandbox.paypal.com/v2/checkout/orders/6RA39675LH1640547",
+            "rel": "self",
+            "method": "GET"
+          }
+        ]
+      },
+      "1": {
+        "proudctID": 97218921562215,
+        "productimage": "https://m.media-amazon.com/images/I/51OQ3sPBAsL._AC_UY1100_.jpg",
+        "productname": "Ray-Ban",
+        "price": 1200,
+        "ratings": 4.5,
+        "discounts": 10,
+        "features": "Black, Medium, Polarized",
+        "id": "cf5f"
+      },
+      "2": {
+        "proudctID": 97218921562212,
+        "productimage": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-brown-gradient-full-rim-aviator-vincent-chase-polarized-vintage-vc-s11075-c11-sunglasses_g_3378_6_02_22.jpg",
+        "productname": "Oakley",
+        "price": 1350,
+        "ratings": 4.2,
+        "discounts": 15,
+        "features": "Brown, Large, UV Protection",
+        "id": "5e44"
+      },
+      "3": {
+        "productimage": "https://india.ray-ban.com/media/catalog/product/cache/31cc5ad256d13496e740487cbcf523ed/0/r/0rb3025i_w3276_000a_new.png",
+        "productname": "Cartier",
+        "price": 1450,
+        "ratings": 4.9,
+        "discounts": 25,
+        "features": "Gold, Small, Prescription",
+        "id": "c534"
+      },
+      "4": {
+        "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bAzuC7_lP-usb0_y4keyE6oSG9kNkm1YKg&usqp=CAU",
+        "productname": "Paragon",
+        "price": 1799,
+        "discounts": 25,
+        "ratings": 4.3,
+        "features": "8/9/10/11",
+        "id": "0091"
+      },
+      "5": {
+        "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/c/g/z/-original-imagg7t3yuwguyw7.jpeg?q=90&crop=false",
+        "productname": "Campus",
+        "price": 2399,
+        "discounts": 40,
+        "ratings": 4.9,
+        "features": "8/9/10/12",
+        "id": "0620"
+      },
+      "6": {
+        "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bAzuC7_lP-usb0_y4keyE6oSG9kNkm1YKg&usqp=CAU",
+        "productname": "Paragon",
+        "price": 1899,
+        "discounts": 22,
+        "ratings": 4.1,
+        "features": "8/9/10/11",
+        "id": "5c2d"
+      },
+      "7": {
+        "productimage": "https://dam.sothebys.com/dam/image/Item/bf934228-c4f0-48aa-ae24-51436c9dd055/primary/medium",
+        "productname": "Chanel",
+        "price": 9499,
+        "discounts": 21,
+        "ratings": 4.9,
+        "features": "Silver Strass and Crystal CC Long Dangle",
+        "id": "01c2"
+      },
+      "8": {
+        "productimage": "https://dam.sothebys.com/dam/image/Item/a4719fa0-3fb3-4952-af91-96dace2683f4/primary/medium",
+        "productname": "Chanel",
+        "price": 13199,
+        "discounts": 20,
+        "ratings": 4.7,
+        "features": "Gold Metal Earrings",
+        "id": "9a6c",
+        "count": 3
+      },
+      "9": {
+        "productimage": "https://dam.sothebys.com/dam/image/Item/84270d83-4ce6-44bd-95e4-b975d70bfe83/primary/medium",
+        "productname": "Mauboussin",
+        "price": 12000,
+        "discounts": 19,
+        "ratings": 4.2,
+        "features": "Vintage Gold and Diamond Earclips",
+        "id": "b15f"
+      },
+      "10": "LWY8043573",
+      "id": "ab56"
+    },
+    {
+      "0": {
+        "id": "7N119393AD9940614",
+        "intent": "CAPTURE",
+        "status": "COMPLETED",
+        "purchase_units": [
+          {
+            "reference_id": "default",
+            "amount": {
+              "currency_code": "USD",
+              "value": "25.00"
+            },
+            "payee": {
+              "email_address": "sb-n4ny430091268@business.example.com",
+              "merchant_id": "6VBT83GLU2Y2E"
+            },
+            "soft_descriptor": "PAYPAL *TEST STORE",
+            "shipping": {
+              "name": {
+                "full_name": "Shruti Gunturkar"
+              },
+              "address": {
+                "address_line_1": "mamta colony",
+                "admin_area_2": "New York",
+                "admin_area_1": "NY",
+                "postal_code": "10001",
+                "country_code": "US"
+              }
+            },
+            "payments": {
+              "captures": [
+                {
+                  "id": "958142526F476504N",
+                  "status": "COMPLETED",
+                  "amount": {
+                    "currency_code": "USD",
+                    "value": "25.00"
+                  },
+                  "final_capture": true,
+                  "seller_protection": {
+                    "status": "NOT_ELIGIBLE"
+                  },
+                  "create_time": "2024-03-30T03:03:20Z",
+                  "update_time": "2024-03-30T03:03:20Z"
+                }
+              ]
+            }
+          }
+        ],
+        "payer": {
+          "name": {
+            "given_name": "Shruti",
+            "surname": "Gunturkar"
+          },
+          "email_address": "shruti@gmail.com",
+          "payer_id": "2LSEZMK9WMUDY",
+          "address": {
+            "country_code": "US"
+          }
+        },
+        "create_time": "2024-03-30T03:00:32Z",
+        "update_time": "2024-03-30T03:03:20Z",
+        "links": [
+          {
+            "href": "https://api.sandbox.paypal.com/v2/checkout/orders/7N119393AD9940614",
+            "rel": "self",
+            "method": "GET"
+          }
+        ]
+      },
+      "1": {
+        "id": "0801",
+        "selectCategory": "household",
+        "productimage": "https://images.heb.com/is/image/HEBGrocery/001285816?fit=constrain,1&wid=800&hei=800&fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+        "productname": "Dettol Soap",
+        "price": 50,
+        "ratings": 4.5,
+        "discounts": 50,
+        "features": "daily soap which gives fresh smell to the body"
+      },
+      "2": "BTL6533180",
+      "id": "8e1e"
+    },
+    {
+      "0": {
+        "id": "1SU53578DS613641M",
+        "intent": "CAPTURE",
+        "status": "COMPLETED",
+        "purchase_units": [
+          {
+            "reference_id": "default",
+            "amount": {
+              "currency_code": "USD",
+              "value": "52112.82"
+            },
+            "payee": {
+              "email_address": "sb-n4ny430091268@business.example.com",
+              "merchant_id": "6VBT83GLU2Y2E"
+            },
+            "soft_descriptor": "PAYPAL *TEST STORE",
+            "shipping": {
+              "name": {
+                "full_name": "Alok Boy"
+              },
+              "address": {
+                "address_line_1": "123 A great socity",
+                "admin_area_2": "New York",
+                "admin_area_1": "NY",
+                "postal_code": "10001",
+                "country_code": "US"
+              }
+            },
+            "payments": {
+              "captures": [
+                {
+                  "id": "7CX31940GN788042R",
+                  "status": "COMPLETED",
+                  "amount": {
+                    "currency_code": "USD",
+                    "value": "52112.82"
+                  },
+                  "final_capture": true,
+                  "seller_protection": {
+                    "status": "NOT_ELIGIBLE"
+                  },
+                  "create_time": "2024-03-31T18:29:46Z",
+                  "update_time": "2024-03-31T18:29:46Z"
+                }
+              ]
+            }
+          }
+        ],
+        "payer": {
+          "name": {
+            "given_name": "Alok",
+            "surname": "Boy"
+          },
+          "email_address": "alok@gmail.com",
+          "payer_id": "Y9SVT2PGR726G",
+          "address": {
+            "country_code": "US"
+          }
+        },
+        "create_time": "2024-03-31T18:24:54Z",
+        "update_time": "2024-03-31T18:29:46Z",
+        "links": [
+          {
+            "href": "https://api.sandbox.paypal.com/v2/checkout/orders/1SU53578DS613641M",
+            "rel": "self",
+            "method": "GET"
+          }
+        ]
+      },
+      "1": {
+        "proudctID": 97218921562215,
+        "productimage": "https://m.media-amazon.com/images/I/51OQ3sPBAsL._AC_UY1100_.jpg",
+        "productname": "Ray-Ban",
+        "price": 1200,
+        "ratings": 4.5,
+        "discounts": 10,
+        "features": "Black, Medium, Polarized",
+        "id": "cf5f"
+      },
+      "2": {
+        "proudctID": 97218921562212,
+        "productimage": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-brown-gradient-full-rim-aviator-vincent-chase-polarized-vintage-vc-s11075-c11-sunglasses_g_3378_6_02_22.jpg",
+        "productname": "Oakley",
+        "price": 1350,
+        "ratings": 4.2,
+        "discounts": 15,
+        "features": "Brown, Large, UV Protection",
+        "id": "5e44"
+      },
+      "3": {
+        "productimage": "https://beardo.in/cdn/shop/products/1_938b20a4-734b-4d1e-b138-6dbd7f4425ef.jpg?v=1681993775&width=1946",
+        "productname": "Persol",
+        "price": 1400,
+        "ratings": 4.8,
+        "discounts": 20,
+        "features": "Havana, Small, Scratch Resistant",
+        "id": "1c79"
+      },
+      "4": {
+        "productimage": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-brown-gradient-full-rim-aviator-vincent-chase-polarized-vintage-vc-s11075-c11-sunglasses_g_3378_6_02_22.jpg",
+        "productname": "Prada",
+        "price": 1300,
+        "ratings": 4.6,
+        "discounts": 12,
+        "features": "Blue, Medium, Mirrored",
+        "id": "e9d1"
+      },
+      "5": {
+        "productimage": "https://assets.ajio.com/medias/sys_master/root/20230807/4U98/64d10d0beebac147fcaefe44/-473Wx593H-469159210-green-MODEL.jpg",
+        "productname": "Tom Ford",
+        "price": 1250,
+        "ratings": 4.4,
+        "discounts": 18,
+        "features": "Green, Large, Gradient",
+        "id": "54ba"
+      },
+      "6": {
+        "productimage": "data:image/jpeg;base64,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",
+        "productname": "Maxima",
+        "price": 1800,
+        "discounts": 20,
+        "ratings": 4.2,
+        "features": "Analog display, Leather strap",
+        "id": "92e6"
+      },
+      "7": {
+        "productimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/r/r/g/-original-imagqfu29dkerdnc.jpeg?q=90&crop=false",
+        "productname": "Fastrack",
+        "price": 2800,
+        "discounts": 35,
+        "ratings": 4.7,
+        "features": "Chronograph, Silicone strap",
+        "id": "a729",
+        "count": 5
+      },
+      "8": {
+        "productimage": "https://5.imimg.com/data5/SELLER/Default/2021/3/KC/RD/WA/26510561/2020-08-15-21-37-img-4609.JPG",
+        "productname": "Fossil",
+        "price": 2900,
+        "discounts": 40,
+        "ratings": 4.4,
+        "features": "Date display, Stainless steel case",
+        "id": "a7f0",
+        "count": 6
+      },
+      "9": {
+        "productimage": "https://5.imimg.com/data5/MI/ND/MY-11707440/power-grey-sports-shoes-for-men-f839202100.png",
+        "productname": "Bata",
+        "price": 1999,
+        "discounts": 32,
+        "ratings": 4.5,
+        "features": "7/8/9/10",
+        "id": "57bb"
+      },
+      "10": {
+        "productimage": "https://5.imimg.com/data5/MI/ND/MY-11707440/power-grey-sports-shoes-for-men-f839202100.png",
+        "productname": "Bata",
+        "price": 1499,
+        "discounts": 20,
+        "ratings": 4.2,
+        "features": "8/9/10/11",
+        "id": "8e38"
+      },
+      "11": {
+        "productimage": "https://rukminim1.flixcart.com/image/300/300/xif0q/shoe/o/h/c/-original-imagg4kchp7fjyez.jpeg",
+        "productname": "Lakhani",
+        "price": 2199,
+        "discounts": 35,
+        "ratings": 4.7,
+        "features": "7/9/10/12",
+        "id": "bf41"
+      },
+      "12": {
+        "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bAzuC7_lP-usb0_y4keyE6oSG9kNkm1YKg&usqp=CAU",
+        "productname": "Paragon",
+        "price": 1799,
+        "discounts": 25,
+        "ratings": 4.3,
+        "features": "8/9/10/11",
+        "id": "0091"
+      },
+      "13": {
+        "productimage": "https://dam.sothebys.com/dam/image/Item/a4719fa0-3fb3-4952-af91-96dace2683f4/primary/medium",
+        "productname": "Chanel",
+        "price": 13199,
+        "discounts": 20,
+        "ratings": 4.7,
+        "features": "Gold Metal Earrings",
+        "id": "9a6c"
+      },
+      "14": {
+        "productimage": "https://dam.sothebys.com/dam/image/Item/84270d83-4ce6-44bd-95e4-b975d70bfe83/primary/medium",
+        "productname": "Mauboussin",
+        "price": 12000,
+        "discounts": 19,
+        "ratings": 4.2,
+        "features": "Vintage Gold and Diamond Earclips",
+        "id": "b15f"
+      },
+      "15": "billing id: WCJ5006280",
+      "id": "662e"
+    }
+  ]
+}

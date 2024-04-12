@@ -1,0 +1,55 @@
+.container {
+    max-width: 100%;
+    margin:auto;
+    padding: 40px;
+    overflow: hidden;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.cardlist {
+    /* border: 2px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* border: 2px solid black; */
+}
+
+.card {
+    width: calc(80% - 20px);
+    /* Adjust the width and spacing as needed */
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.searchbar{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin: 15px auto;
+}
+
+.searchbar input{
+    width: 40%;
+    height: 30px;
+    border-radius: 30px;
+    padding: 5px 20px;
+    font-size: 16px;
+    box-shadow: 2px 3px 20px 2px rgb(155, 155, 155);
+    border-style: hidden;
+}
+
+img{
+    
+}

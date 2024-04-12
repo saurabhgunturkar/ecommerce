@@ -1,0 +1,60 @@
+.container {
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    /* height: 500px; */
+}
+
+
+
+form {
+    height: auto;
+}
+
+mat-card {
+    margin: 5px;
+    background-color: antiquewhite;
+    flex-wrap: wrap;
+}
+
+mat-form-field {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    width: 50em;
+    margin-left: 25%;
+
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+button {
+    width: 160px;
+    font-size: 16px;
+    font-weight: 600;
+    float: right;
+    color: #fff;
+    cursor: pointer;
+    margin: 10px;
+    height: 55px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    background-color: #006269;
+
+}
+
+button:hover {
+    background-color: #048a94;
+
+}

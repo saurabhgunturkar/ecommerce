@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="searchbar">
+        <input type="text" [(ngModel)]="searchCategory" (input)="search()" placeholder="Search category" />
+        <!-- <button (click)="search()">Submit</button> -->
+    </div>
+    <section>
+        <div class="cardlist" *ngFor="let item of searchResults.length ? searchResults: categoryName; let i = index">
+            <div class="card" (click)="selectedValue = item; selectCategory()">
+                <img src="https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074075.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1709510400&semt=sph"
+                    alt="category iamge" width="100%" height="150px">
+                <h2>{{item}}</h2>
+            </div>
+        </div>
+    </section>
+</div>

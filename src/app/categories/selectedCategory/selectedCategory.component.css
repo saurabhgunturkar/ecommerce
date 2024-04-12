@@ -1,0 +1,116 @@
+.container {
+    max-width: 1400px;
+    margin: auto;
+    padding: 20px;
+    overflow: hidden;
+
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+}
+
+.cardlist{
+    /* border: 2px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    /* border: 2px solid black; */
+}
+
+.card{
+    width: calc(230px - 20px); /* Adjust the width and spacing as needed */
+    margin: 15px auto;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+    cursor: pointer;
+    flex-wrap: wrap;
+    overflow: hidden;
+    position: relative;
+}
+
+card .img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    object-fit:cover;
+}
+
+.discounts{
+    background-color: rgb(225, 116, 0);
+    color: white;
+    border-radius: 40%;
+    height: 50px;
+    width: 50px;
+    object-fit: fill;
+    overflow: hidden;
+    text-align:center ;
+    
+}
+
+.discounts p{
+    margin: 5px;
+}
+
+.price{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    margin-left: 15px;
+    /* border: 2px solid black; */
+    justify-content:left;
+    text-align: center;
+}
+
+.bn60 {
+    
+    background-color: #0286c9;
+    color: #ffffff;
+    font-size: 1.3em;
+    font-weight: 600;
+    position: relative;
+    outline:auto;
+    border-radius: 10px;
+    align-items: center;
+    cursor: pointer;
+    height: 50px;
+    width: 100%;
+  }
+
+  .bn60:hover{
+        
+    background-color: #3dbbfa;
+  }
+
+
+  .searchbar{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin: 15px auto;
+}
+
+.searchbar input{
+    width: 40%;
+    height: 30px;
+    border-radius: 30px;
+    padding: 5px 20px;
+    font-size: 16px;
+    box-shadow: 2px 3px 20px 2px rgb(155, 155, 155);
+    border-style: hidden;
+}
+
+.backbutton{
+    opacity: 0.5;
+}

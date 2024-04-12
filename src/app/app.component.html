@@ -1,0 +1,28 @@
+<!-- app.component.html -->
+<div class="container">
+    <header>
+        <h1 class="title">E-Commerce</h1>
+        
+        <div *ngIf="isLoggedIn">
+            <!-- Your app content here -->
+            <button (click)="onLogout()" routerLink="/login" class="goToCart">Logout</button>
+            <button routerLink="/addToCart" class="goToCart">Go to cart</button>
+            
+        </div>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a [routerLink]="['/category']">Shop</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="routing">
+        <router-outlet></router-outlet>
+    </div>
+
+    <footer>
+        &copy; 2024 Your E-Commerce Store. All rights reserved.
+    </footer>
+</div>

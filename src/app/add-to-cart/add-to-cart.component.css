@@ -1,0 +1,126 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 10px;
+    background:rgba(188, 233, 255, 0.2) ;
+
+
+}
+
+.cardlist {
+    width: 50%;
+    margin: 0px 25px;
+}
+
+.card {
+    width: calc(80% - 20px);
+    /* Adjust the width and spacing as needed */
+    margin: 10px 30px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    /* text-align: center; */
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
+
+.card img{
+
+    width: 220px;
+    height: 210px;
+    /* border: 2px solid black; */
+    object-fit: contain;
+    scale: 1.1;
+}
+
+.item-details {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+
+
+.discounts{
+    background-color: rgb(225, 116, 0);
+    color: white;
+    border-radius: 40%;
+    height: 50px;
+    width: 50px;
+    object-fit: fill;
+    overflow: hidden;
+    text-align:center ;
+    
+}
+
+.line {
+    content: '';
+    width: 50%;
+    height: 0;
+    justify-content: center;
+    border: 2px solid black;
+    margin-left: 23%;
+}
+
+.billing {
+    margin: 50px 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 35%;
+    /* border: 2px solid black; */
+    height: auto;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0px 0px 10px 5px rgb(145, 145, 145);
+    
+}
+
+mat-form-field{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 22vh;
+    width: 50%;
+    justify-content: center;
+
+}
+
+.quantity {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+}
+
+.quantity mat-icon{
+    background-color: rgba(255, 201, 176, 0.836);
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.quantity button,
+h3 {
+    margin: 3px;
+    
+}
+
+.quantity h3 {
+   margin: 0px 5px;
+}
+
+.backbutton{
+    opacity: 0.5;
+    margin: 10px 30px;
+}
+
+.paymentRef{
+    width:calc(80%-0px);
+    margin: 50px;
+
+}

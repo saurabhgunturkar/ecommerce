@@ -1,0 +1,66 @@
+<div class="container">
+    <mat-card class="card">
+        <mat-card-content>
+            <form [formGroup]="addproductform" (ngSubmit)="addproduct()">
+                <mat-form-field appearance="fill">
+                    <mat-label>Select category</mat-label>
+                    <mat-select formControlName="selectCategory">
+                        <mat-option [value]="'sunglasses'">Sunglasses</mat-option>
+                        <mat-option [value]="'watches'">watches</mat-option>
+                        <mat-option [value]="'shoes'">shoes</mat-option>
+                        <mat-option [value]="'jewellary'">jewellary</mat-option>
+                        <mat-option [value]="'bagsLuggae'">Bags and Luggae</mat-option>
+                        <mat-option [value]="'kidsApperal'">Kids Apperal</mat-option>
+                        <mat-option [value]="'mensApperal'">Mens Apperal</mat-option>
+                        <mat-option [value]="'womensApperal'">Womens Apperal</mat-option>
+                        <mat-option [value]="'toysandgames'">Toys and games</mat-option>
+                        <mat-option [value]="'grocery'">Grocery</mat-option>
+                        <mat-option [value]="'household'">Household</mat-option>
+                        <mat-option [value]="'beautyProducts'">Beauty Products</mat-option>
+                        <mat-option [value]="'medical'">Medical</mat-option>
+                        <mat-option [value]="'home'">Home</mat-option>
+                        <mat-option [value]="'kitchen'">Kitchen</mat-option>
+                        <mat-option [value]="'sports'">Sports</mat-option>
+                        <mat-option [value]="'funiture'">Funiture</mat-option>
+                        <mat-option [value]="'books'">Books</mat-option>
+                        <mat-option [value]="'electronicsTv'">Electronics Tv</mat-option>
+                        <mat-option [value]="'computerAceessories'">Computer Aceessories</mat-option>
+                        <mat-option [value]="'musicalInstruments'">Musical Instruments</mat-option>
+                    </mat-select>
+                </mat-form-field>
+
+                <mat-form-field>
+                    <mat-label for="productimage">Product Image:</mat-label>
+                    <input matInput type="text" id="productimage" formControlName="productimage">
+                </mat-form-field>
+
+                <mat-form-field>
+                    <mat-label for="productname">Product Name:</mat-label>
+                    <input matInput type="text" id="productname" formControlName="productname">
+                </mat-form-field>
+
+                <mat-form-field>
+                    <mat-label for="price">Price:</mat-label>
+                    <input matInput type="number" id="price" formControlName="price">
+                </mat-form-field>
+
+                <mat-form-field>
+                    <mat-label for="ratings">Ratings:</mat-label>
+                    <input matInput type="number" id="ratings" formControlName="ratings">
+                </mat-form-field>
+
+                <mat-form-field>
+                    <mat-label for="discounts">Discounts:</mat-label>
+                    <input matInput type="number" id="discounts" formControlName="discounts">
+                </mat-form-field>
+
+                <mat-form-field>
+                    <mat-label for="features">Features:</mat-label>
+                    <textarea matInput formControlName="features" id="features" cols="30" rows="5"></textarea>
+                </mat-form-field>
+
+                <button type="submit">Add product</button>
+            </form>
+        </mat-card-content>
+    </mat-card>
+</div>

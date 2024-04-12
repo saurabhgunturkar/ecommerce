@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="backbutton">
+    <h2><a [routerLink]="'/category'" style="text-decoration:  none;">{{backbutton}}</a></h2>
+  </div>
+  <header>
+    <div class="searchbar">
+      <input type="text" [(ngModel)]="searchitem" placeholder="Search here" (input)="search()" >
+      <!-- <button (click)="search()">Submit</button> -->
+    </div>
+  </header>
+
+  <section>
+    <div class="cardlist" *ngFor="let item of searchResults.length ? searchResults : selectedCategoryData">
+      <div class="card" routerLink="/selectCategory">
+        <div class="img"><img src={{item.productimage}} alt={{item.productimage}} width="200px" height="200px" ></div>
+        <h1 style="font-family:'Trebuchet MS', sans-serif;color: rgb(128, 2, 2);font-weight: 700; font-size: 26px;">{{item.productname}}</h1>
+        <div class="price">
+        <div class="discounts"> <p >{{item.discounts}}% <br>off</p></div>
+        <h1 style="font-size: 28px;font-weight: 600;">{{item.price}}/-</h1>
+      </div>
+        <p style="align-items: center">{{item.ratings}}<span><mat-icon style="color: rgb(206, 149, 5);">star</mat-icon></span></p>
+        <button class="bn60" (click)="addItemToCard(item)">Add to Cart</button>
+      </div>
+    </div>
+  </section>
+</div>
